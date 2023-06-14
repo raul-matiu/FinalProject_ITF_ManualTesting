@@ -10,7 +10,7 @@ Application under test: [demo.opencart.com](https://demo.opencart.com/index.php?
 
 The final project will be split into 2 sections: Testing section and SQL section.
 
-Tools used: Jira and Zephyr Squad.
+Tools used: Jira, Zephyr Squad and MySQL Workbench.
 
 ## Functional specifications ##
 Product page section from demo.opencart.com. Business requirements can be found [here](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/blob/main/Business-requirements_Product-page-section_full.pdf) 
@@ -20,19 +20,27 @@ Product page section from demo.opencart.com. Business requirements can be found 
 ## 1.1 Test Planning ##
 The Test Plan is designed to describe all details of testing for the Product page section from demo.opencart.com application.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing and the risks associated with the plan.
 
 ### 1.1.1 Roles assigned to the project and persons allocated ###
+I am the only person responsible for managing this testing-project. 
 ### 1.1.2 Entry criteria defined ###
+* The environment is up and running
+* User created and login
 ### 1.1.3 Exit criteria defined ###
+* All test cases set in scope are executed
+* At least 50% with status passed
+* No critical defect opened
+* Maximum 5 high priority defects opened
+* Testing deadline 25.06.2023
 ### 1.1.4 Test scope ###
-Tests in scope:\
-Tests not in scope:
+Tests in scope: Review and Functional Testing using Black-box testing and Experience-based testing as Test Design Techniques, GUI Testing.\
+Tests not in scope: Performance Testing, Stress testing, Volume Testing, compatibility testing with multiple browsers, Mobile testing and Functional Testing using White-box Testing Techniques
 ### 1.1.5 Risks detected ###
-Project risks:\
+Project risks: lack of knowledge, illness, insufficient testers, no developers available to fix the opened bugs, environment not functional and not available all the time as it is an open source, other peoples can change code for a short period of time and my designed test cases may fail.\
 Product risks:
 ### 1.1.6 Evaluating entry criteria ###
-The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
+The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 ## 1.2 Test Monitoring and Control ##
 It will be done by generating periodic reports that reflect the current status of the test.
@@ -61,7 +69,7 @@ enter here bug titles
 
 ## 1.7 Test Completion
 Exit criteria was evaluated and passed\
-The traceability matrix was generated and can be found here: Traceability_matrix.csv \
+The traceability matrix was generated and can be found here:  \
 Test execution chart was generated, the final report shows.... -> describe the final report
 -> enter here test execution report/chart
 
