@@ -44,7 +44,9 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 ## 1.2 Test Monitoring and Control ##
 It will be done by generating periodic reports that reflect the current status of the test.
+
 ![Tracebility-matrix-PFI-2_PFI8](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/76e47459-6ece-4485-9aa7-1677d1aa4499)
+
 ![Tracebility-matrix-detail-PFI-7_PFI-8](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/e9ceb167-bff5-4183-ada3-1d37f48d6d16)
 ## 1.3 Test Analysis
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
