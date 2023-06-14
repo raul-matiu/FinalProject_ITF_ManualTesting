@@ -14,6 +14,7 @@ Tools used: Jira, Zephyr Squad and MySQL Workbench.
 
 ## Functional specifications ##
 Product page section from demo.opencart.com. Business requirements can be found [here](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/blob/main/Business-requirements_Product-page-section_full.pdf) 
+
 ![Epic](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/ab2bc146-4dfe-4ff4-a4cc-75a82a60c8a4)
 # 1 Testing section #
 
