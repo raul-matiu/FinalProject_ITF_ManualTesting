@@ -14,7 +14,7 @@ Tools used: Jira, Zephyr Squad and MySQL Workbench.
 
 ## Functional specifications ##
 Product page section from demo.opencart.com. Business requirements can be found [here](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/blob/main/Business-requirements_Product-page-section_full.pdf) 
-![Epic](E:\Raul\Tester-job\Cursuri\ITFactory\TestareManuala\Proiect-final\JIRA\Epic.png)
+![Epic](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/ab2bc146-4dfe-4ff4-a4cc-75a82a60c8a4)
 # 1 Testing section #
 
 ## 1.1 Test Planning ##
@@ -44,8 +44,8 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 ## 1.2 Test Monitoring and Control ##
 It will be done by generating periodic reports that reflect the current status of the test.
-![Matrix](E:\Raul\Tester-job\Cursuri\ITFactory\TestareManuala\Proiect-final\JIRA\Tracebility-matrix-PFI-2_PFI8.png)
-![Matrix2](E:\Raul\Tester-job\Cursuri\ITFactory\TestareManuala\Proiect-final\JIRA\Tracebility-matrix-detail-PFI-7_PFI-8.png)
+![Stories-2-01](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/24931a3b-479e-4956-8222-76304abbdb75)
+![Stories-2-02](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/10100397-7c7c-4d0e-8f8a-60cd50d3b919)
 ## 1.3 Test Analysis
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
 
