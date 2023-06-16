@@ -57,6 +57,9 @@ Enter test conditions here
 ## 1.4 Test Design ##
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
 
+* Black box testing : boundary values, use case testing.
+* Experience based testing: exploratory testing and check list based testing.
+
 Test cases: -> enter here test cases or at least the titles
 
 The test cases with steps can be viewed here: 
@@ -71,8 +74,18 @@ The following elements are needed to be ready before the test execution phase be
 ## 1.6 Test Execution ##
 Test cases are executed on the created test Cycle summary: link
 
+* Product image section was tested in cycle ...
+* Product details was tested in cycle ...
+* Cart subsection was tested in cycle ...
+* Rating/ Sharing was tested in cycle ...
+* Description tab was tested in cycle ...
+* Specification tab was tested in cycle ...
+* Reviews tab was tested in cycle ...
+
 Bugs have been created based on the failed tests.\
 The complete bug reports can be found here: ...enter here bug titles
+
+Full regression testing is needed after the bugs are fixed
 
 ## 1.7 Test Completion ##
 Exit criteria was evaluated and passed\
