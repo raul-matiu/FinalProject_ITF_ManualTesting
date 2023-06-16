@@ -15,7 +15,9 @@ Tools used: Jira, Zephyr Squad and MySQL Workbench.
 ## Functional specifications ##
 Product page section from demo.opencart.com. Business requirements can be found [here](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/blob/main/Business-requirements_Product-page-section_full.pdf) 
 
-![Epic](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/ab2bc146-4dfe-4ff4-a4cc-75a82a60c8a4)
+![Epic-00-1](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/c7b11019-f750-46be-85e4-fb237134719e)
+![Epic-00-2](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/2bd037d6-df32-4577-884d-d15cf92cc6e3)
+
 # 1 Testing section #
 
 ## 1.1 Test Planning ##
@@ -45,36 +47,42 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 ## 1.2 Test Monitoring and Control ##
 It will be done by generating periodic reports that reflect the current status of the test.
+![PFI-Sprint1](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/aa15c7af-ea45-4358-81ff-842a945e1653)
 
-![Tracebility-matrix-PFI-2_PFI8](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/76e47459-6ece-4485-9aa7-1677d1aa4499)
-
-![Tracebility-matrix-detail-PFI-7_PFI-8](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/e9ceb167-bff5-4183-ada3-1d37f48d6d16)
-## 1.3 Test Analysis
+## 1.3 Test Analysis ##
 The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
 
 Enter test conditions here
 
-## 1.4 Test Design
+## 1.4 Test Design ##
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
 
 Test cases: -> enter here test cases or at least the titles
 
 The test cases with steps can be viewed here: 
 
-## 1.5 Test Implementation
+## 1.5 Test Implementation ##
 The following elements are needed to be ready before the test execution phase begins:
 
-enter here what needs to be ready for the test execution to begin
+* Testing environment is up and running: [demo.opencart.com](https://demo.opencart.com/index.php?route=product/product&language=en-gb&product_id=43) 
+* Access to the testing environment is given: Username: demo | Password: demo
+* Cycle summary was created
 
-## 1.6 Test Execution
+## 1.6 Test Execution ##
 Test cases are executed on the created test Cycle summary: link\
+
 Bugs have been created based on the failed tests. The complete bug reports can be found here: 
 enter here bug titles
 
-## 1.7 Test Completion
+## 1.7 Test Completion ##
 Exit criteria was evaluated and passed\
 The traceability matrix was generated and can be found here:  \
+![Tracebility-matrix-PFI-2_PFI8](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/76e47459-6ece-4485-9aa7-1677d1aa4499)
+
+![Tracebility-matrix-detail-PFI-7_PFI-8](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/e9ceb167-bff5-4183-ada3-1d37f48d6d16)
+
+
 Test execution chart was generated, the final report shows.... -> describe the final report
 -> enter here test execution report/chart
 
-# 2 SQL section
+# 2 SQL section ##
