@@ -50,7 +50,7 @@ It will be done by generating periodic reports that reflect the current status o
 ![PFI-Sprint1](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/aa15c7af-ea45-4358-81ff-842a945e1653)
 
 ## 1.3 Test Analysis ##
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
+The testing process will be executed based on the above [requirements](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/blob/main/Business-requirements_Product-page-section_full.pdf) for the Product section. The following test conditions were found:
 
 Enter test conditions here
 
@@ -69,14 +69,15 @@ The following elements are needed to be ready before the test execution phase be
 * Cycle summary was created
 
 ## 1.6 Test Execution ##
-Test cases are executed on the created test Cycle summary: link\
+Test cases are executed on the created test Cycle summary: link
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: 
-enter here bug titles
+Bugs have been created based on the failed tests.\
+The complete bug reports can be found here: ...enter here bug titles
 
 ## 1.7 Test Completion ##
 Exit criteria was evaluated and passed\
-The traceability matrix was generated and can be found here:  \
+The traceability matrix was generated and can be found here:
+
 ![Tracebility-matrix-PFI-2_PFI8](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/76e47459-6ece-4485-9aa7-1677d1aa4499)
 
 ![Tracebility-matrix-detail-PFI-7_PFI-8](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/e9ceb167-bff5-4183-ada3-1d37f48d6d16)
