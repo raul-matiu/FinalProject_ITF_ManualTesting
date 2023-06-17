@@ -93,10 +93,9 @@ Full regression testing is needed after the bugs are fixed
 Exit criteria was evaluated and passed\
 The traceability matrix was generated and can be found here:
 
-![Tracebility-matrix-PFI-2_PFI8](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/76e47459-6ece-4485-9aa7-1677d1aa4499)
+![Tracebility-matrix-PFI-2_PFI8](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/cae8e664-f25b-498a-b9d9-49f53c227573)
 
-![Tracebility-matrix-detail-PFI-7_PFI-8](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/e9ceb167-bff5-4183-ada3-1d37f48d6d16)
-
+![Tracebility-matrix-detail-PFI-7_PFI-8](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/18dbbada-5ee4-4f36-8961-93fd572940fb)
 
 Test execution chart was generated, the final report shows.... -> describe the final report
 -> enter here test execution report/chart
