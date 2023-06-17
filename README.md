@@ -1,6 +1,6 @@
 # Final project for ITF Manual Testing Course #
 
-The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application.
+The scope of the final project for [ITF](https://www.itfactory.ro/) Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application.
 
 Application under test: [demo.opencart.com](https://demo.opencart.com/index.php?route=product/product&language=en-gb&product_id=43) - Product page section
 
@@ -40,8 +40,10 @@ I am the only person responsible for managing this testing-project.
 Tests in scope: Review and Functional Testing using Black-box testing and Experience-based testing as Test Design Techniques, GUI Testing.\
 Tests not in scope: Performance Testing, Stress testing, Volume Testing, compatibility testing with multiple browsers, Mobile testing and Functional Testing using White-box Testing Techniques
 ### 1.1.5 Risks detected ###
-Project risks: lack of knowledge, illness, insufficient testers, no developers available to fix the opened bugs, environment not functional and not available all the time as it is an open source, other peoples can change code for a short period of time and my designed test cases may fail.\
-Product risks:
+Project risks: lack of knowledge, illness, insufficient testers, no developers available to fix the opened bugs, Problems with test tools (Zephyr Squad trial version), environment not functional and not available all the time as it is an open source, other peoples can change code for a short period of time and my designed test cases may fail.
+
+Product risks: The app doesn't work consistently, Product incapacity
+to meet customer all expectations
 ### 1.1.6 Evaluating entry criteria ###
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
