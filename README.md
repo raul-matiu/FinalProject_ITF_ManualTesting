@@ -90,14 +90,19 @@ The complete bug reports can be found here: ...enter here bug titles
 Full regression testing is needed after the bugs are fixed
 
 ## 1.7 Test Completion ##
-Exit criteria was evaluated and passed\
+Exit criteria was evaluated and passed.\
 The traceability matrix was generated and can be found here:
 
 ![Tracebility-matrix-PFI-2_PFI8](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/cae8e664-f25b-498a-b9d9-49f53c227573)
 
 ![Tracebility-matrix-detail-PFI-7_PFI-8](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/18dbbada-5ee4-4f36-8961-93fd572940fb)
 
-Test execution chart was generated, the final report shows.... -> describe the final report
--> enter here test execution report/chart
+Test execution chart was generated:
+![Test-Execution-Chart-1](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/11c40f78-7a8f-4c8d-8fbf-3cc2a47136bd)
+
+![Pie-Chart-1](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/22fcc018-5606-4739-8d5b-862edd568bcf)
+
+the final report shows.... -> describe the final report
+
 
 # 2 SQL section ##
