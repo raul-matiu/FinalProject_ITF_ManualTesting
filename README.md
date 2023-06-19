@@ -47,6 +47,7 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 ## 1.2 Test Monitoring and Control ##
 It will be done by generating periodic reports that reflect the current status of the test.
+
 ![Executions-list](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/beb331b8-8137-40a4-89d4-9569d1eb91c5)
 
 ## 1.3 Test Analysis ##
@@ -118,7 +119,7 @@ The following elements are needed to be ready before the test execution phase be
 * Cycle summary was created
 
 ## 1.6 Test Execution ##
-Test cases are executed on the created test Cycle summary: link
+Test cases are executed on the created test Cycle summary: ...link
 
 * Product image section was tested in cycle:
 ![Cycle-sum_Image-section](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/384342b4-0ba6-424d-99aa-c7185d4ba1a3)
@@ -134,8 +135,9 @@ Test cases are executed on the created test Cycle summary: link
 ![Cycle-sum_Specification-tab](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/3c232a84-9789-4949-808a-26587a9d6de6)
 * Reviews tab was tested in cycle:
 ![Cycle-sum_Reviews-tab](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/a7b30965-cf2a-4d7e-90fa-4ee5213a3917)
+
 Bugs have been created based on the failed tests.\
-The complete bug reports can be found here: \
+The complete bug reports can be found here: ...link \
 Bugs title:
 * Expected product images are missing from underneath the main image
 * Users are allowed to type any type of characters in Quantity field
@@ -155,6 +157,8 @@ The traceability matrix was generated and can be found here:
 
 ![Tracebility-matrix-PFI-2_PFI8](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/cae8e664-f25b-498a-b9d9-49f53c227573)
 
+![Tracebility-matrix-detail-PFI-4-](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/cbbcd31a-1867-4231-8bb5-34045762beb9)
+
 ![Tracebility-matrix-detail-PFI-7_PFI-8](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/18dbbada-5ee4-4f36-8961-93fd572940fb)
 
 Test execution chart was generated:
@@ -162,4 +166,4 @@ Test execution chart was generated:
 
 ![Pie-Chart-1](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/22fcc018-5606-4739-8d5b-862edd568bcf)
 
-the final report shows.... -> describe the final report
+the final report shows.... -> describe 
