@@ -8,9 +8,7 @@ Application under test: [demo.opencart.com](https://demo.opencart.com/index.php?
 * I create my own documentation, in order to find bugs and static testing issues: [link](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/blob/main/Business-requirements_Product-page-section_full.pdf)
 * API Documentation: [link](https://docs.opencart.com/en-gb/system/users/api/)
 
-The final project will be split into 2 sections: Testing section and SQL section.
-
-Tools used: Jira, Zephyr Squad and MySQL Workbench.
+Tools used: Jira and Zephyr Squad.
 
 ## Functional specifications ##
 Product page section from demo.opencart.com. Business requirements can be found [here](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/blob/main/Business-requirements_Product-page-section_full.pdf) 
@@ -28,8 +26,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 ### 1.1.1 Roles assigned to the project and persons allocated ###
 I am the only person responsible for managing this testing-project. 
 ### 1.1.2 Entry criteria defined ###
-* The environment is up and running
-* User created and login
+* requirements are defined
+* project risks are identified and reduced
 ### 1.1.3 Exit criteria defined ###
 * All test cases set in scope are executed
 * At least 50% with status passed
@@ -49,12 +47,35 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 ## 1.2 Test Monitoring and Control ##
 It will be done by generating periodic reports that reflect the current status of the test.
-![PFI-Sprint1](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/aa15c7af-ea45-4358-81ff-842a945e1653)
+![Executions-list](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/beb331b8-8137-40a4-89d4-9569d1eb91c5)
 
 ## 1.3 Test Analysis ##
 The testing process will be executed based on the above [requirements](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/blob/main/Business-requirements_Product-page-section_full.pdf) for the Product section. The following test conditions were found:
 
-Enter test conditions here
+Test conditions defined:
+* Create test case to access to product section
+* Create test case for Image product display 
+* Create test case for the product details display
+* Create test case for the functionality of Brand Name field
+* Create test case for Cart subsection quantity field
+* Create test case for Cart subsection Add to cart button
+* Create test case for Cart subsection Add to Wishlist button
+* Create test case for Cart subsection Compare this product button
+* Create test case for Cart subsection Reviews link button
+* Create test case for Cart subsection Write a review link button
+* Create test case for Rating button
+* Create test case for Sharing buttons
+* Create test case for Description tab
+* Create test case for Specification tab
+* Create test case for Reviews tab
+* Create test case for "Your Name" field in the Review tab
+* Create test case for "Your Review" field in the Review tab 
+* Create test case for rating options from the Review tab
+* Create test case for "Continue" button in the Review tab 
+* Create test case for Cart status notification when adding to cart
+* Create test case for Cart status when adding to cart
+* Create test case for Description tab content window
+* Create test case for Specification tab content window
 
 ## 1.4 Test Design ##
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are:
@@ -62,7 +83,30 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 * Black box testing : boundary values, use case testing.
 * Experience based testing: exploratory testing and check list based testing.
 
-Test cases: -> enter here test cases or at least the titles
+Test cases (the titles):
+* Checking access to product section
+* Checking Image product display 
+* Checking the product details display
+* Checking the functionality of Brand Name field
+* Checking Cart subsection quantity field 
+* Checking Cart subsection Add to cart button
+* Checking Cart subsection Add to Wishlist button
+* Checking Cart subsection Compare this product button
+* Checking Cart subsection Reviews link button
+* Checking Cart subsection Write a review link button
+* Checking Rating button
+* Checking Sharing buttons
+* Checking Description tab
+* Checking Specification tab
+* Checking Reviews tab
+* Checking "Your Name" field in the Review tab
+* Checking "Your Review" field in the Review tab 
+* Checking rating options from the Review tab
+* Checking "Continue" button in the Review tab 
+* Checking Cart status notification when adding to cart 
+* Checking Cart status when adding to cart
+* Checking Description tab content window 
+* Checking Specification tab content window
 
 The test cases with steps can be viewed here: 
 
@@ -76,18 +120,34 @@ The following elements are needed to be ready before the test execution phase be
 ## 1.6 Test Execution ##
 Test cases are executed on the created test Cycle summary: link
 
-* Product image section was tested in cycle ...
-* Product details was tested in cycle ...
-* Cart subsection was tested in cycle ...
-* Rating/ Sharing was tested in cycle ...
-* Description tab was tested in cycle ...
-* Specification tab was tested in cycle ...
-* Reviews tab was tested in cycle ...
-
+* Product image section was tested in cycle:
+![Cycle-sum_Image-section](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/384342b4-0ba6-424d-99aa-c7185d4ba1a3)
+* Product details was tested in cycle:
+![Cycle-sum_Product-details](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/79268b3c-1c0e-43bc-8779-7fde87cffc35)
+* Cart subsection was tested in cycle:
+![Cycle-sum_Cart-subsection](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/860c12e5-c5fb-42b8-bf04-6eebd51cb93a)
+* Rating/ Sharing was tested in cycle:
+![Cycle-sum_Rating-Sharing](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/f82973d3-9a6f-46b0-a884-70834d13efe0)
+* Description tab was tested in cycle:
+![Cycle-sum_Description-tab](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/2cdbf1c2-304e-4410-9d5f-456896cdccfe)
+* Specification tab was tested in cycle:
+![Cycle-sum_Specification-tab](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/3c232a84-9789-4949-808a-26587a9d6de6)
+* Reviews tab was tested in cycle:
+![Cycle-sum_Reviews-tab](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/a7b30965-cf2a-4d7e-90fa-4ee5213a3917)
 Bugs have been created based on the failed tests.\
-The complete bug reports can be found here: ...enter here bug titles
+The complete bug reports can be found here: \
+Bugs title:
+* Expected product images are missing from underneath the main image
+* Users are allowed to type any type of characters in Quantity field
+* Users can add more than 100 products in cart or write all type of characters in quantity field and receive a confirmation message 
+* Review link button does not open Review tab
+* Write a review link button does not open Review tab
+* Rating stars button is not an embossed button link
+* Sharing button links are missing
+* All types of characters including specials characters (&@},~.....) are allowed in Your Name field
+* HTML are allowed in the Your Review field
 
-Full regression testing is needed after the bugs are fixed
+Full regression testing is needed after the bugs are fixed.
 
 ## 1.7 Test Completion ##
 Exit criteria was evaluated and passed.\
@@ -103,6 +163,3 @@ Test execution chart was generated:
 ![Pie-Chart-1](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/22fcc018-5606-4739-8d5b-862edd568bcf)
 
 the final report shows.... -> describe the final report
-
-
-# 2 SQL section ##
