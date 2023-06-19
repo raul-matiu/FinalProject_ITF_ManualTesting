@@ -51,7 +51,8 @@ It will be done by generating periodic reports that reflect the current status o
 ![Executions-list](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/beb331b8-8137-40a4-89d4-9569d1eb91c5)
 
 ## 1.3 Test Analysis ##
-The testing process will be executed based on the above [requirements](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/blob/main/Business-requirements_Product-page-section_full.pdf) for the Product section. The following test conditions were found:
+The testing process will be executed based on the above [requirements](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/blob/main/Business-requirements_Product-page-section_full.pdf) for the Product section.\
+The following test conditions were found
 
 Test conditions defined:
 * Create test case to access to product section
@@ -109,7 +110,7 @@ Test cases (the titles):
 * Checking Description tab content window 
 * Checking Specification tab content window
 
-The test cases with steps can be viewed here: 
+The test cases with steps can be viewed here: ...
 
 ## 1.5 Test Implementation ##
 The following elements are needed to be ready before the test execution phase begins:
