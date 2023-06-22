@@ -6,7 +6,6 @@ Application under test: [demo.opencart.com](https://demo.opencart.com/index.php?
 
 * Original UI documentation: [link](http://docs.opencart.com/en-gb/store-front/) 
 * I create my own documentation, in order to find bugs and static testing issues: [link](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/blob/main/Business-requirements_Product-page-section_full.pdf)
-* API Documentation: [link](https://docs.opencart.com/en-gb/system/users/api/)
 
 Tools used: Jira and Zephyr Squad.
 
@@ -140,16 +139,9 @@ Test cases are executed on the created test Cycle summary. Check all cycle summa
 Bugs have been created based on the failed tests.\
 The complete bug reports can be found here: [link](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/blob/main/Bugs-list-export-from-jira.pdf)
 
-Bugs title:
-* Expected product images are missing from underneath the main image
-* Users are allowed to type any type of characters in Quantity field
-* Users can add more than 100 products in cart or write all type of characters in quantity field and receive a confirmation message 
-* Review link button does not open Review tab
-* Write a review link button does not open Review tab
-* Rating stars button is not an embossed button link
-* Sharing button links are missing
-* All types of characters including specials characters (&@},~.....) are allowed in Your Name field
-* HTML are allowed in the Your Review field
+Bugs list:
+
+![Bugs-list](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/20a6fc52-7b73-47d5-8cad-b63f84be9229)
 
 Full regression testing is needed after the bugs are fixed.
 
