@@ -110,7 +110,7 @@ Test cases (the titles):
 * Checking Description tab content window 
 * Checking Specification tab content window
 
-The test cases with steps can be viewed here: ...
+The test cases with steps can be viewed here: [link]
 
 ## 1.5 Test Implementation ##
 The following elements are needed to be ready before the test execution phase begins:
@@ -120,7 +120,7 @@ The following elements are needed to be ready before the test execution phase be
 * Cycle summary was created
 
 ## 1.6 Test Execution ##
-Test cases are executed on the created test Cycle summary: ...link
+Test cases are executed on the created test Cycle summary. Check all cycle summaries bellow:
 
 * Product image section was tested in cycle:
 ![Cycle-sum_Image-section](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/384342b4-0ba6-424d-99aa-c7185d4ba1a3)
@@ -138,7 +138,8 @@ Test cases are executed on the created test Cycle summary: ...link
 ![Cycle-sum_Reviews-tab](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/a7b30965-cf2a-4d7e-90fa-4ee5213a3917)
 
 Bugs have been created based on the failed tests.\
-The complete bug reports can be found here: ...link \
+The complete bug reports can be found here: [link]
+
 Bugs title:
 * Expected product images are missing from underneath the main image
 * Users are allowed to type any type of characters in Quantity field
@@ -153,18 +154,29 @@ Bugs title:
 Full regression testing is needed after the bugs are fixed.
 
 ## 1.7 Test Completion ##
-Exit criteria was evaluated and passed.\
-The traceability matrix was generated and can be found here:
+* Exit criteria was evaluated and passed.
+* The traceability matrix was generated. 
 
 ![Tracebility-matrix-PFI-2_PFI8](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/cae8e664-f25b-498a-b9d9-49f53c227573)
 
+Next you can see traceability matrix per each story:
+
+![Tracebility-matrix-detail-PFI-2_PFI-3](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/080fb9b1-7692-4e1e-a983-d7773c033200)
+
 ![Tracebility-matrix-detail-PFI-4-](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/cbbcd31a-1867-4231-8bb5-34045762beb9)
+
+![Tracebility-matrix-detail-PFI-5_PFI-6](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/b58f255d-f417-4a1d-8187-195900646b08)
 
 ![Tracebility-matrix-detail-PFI-7_PFI-8](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/18dbbada-5ee4-4f36-8961-93fd572940fb)
 
 Test execution chart was generated:
+
 ![Test-Execution-Chart-1](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/11c40f78-7a8f-4c8d-8fbf-3cc2a47136bd)
 
-![Pie-Chart-1](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/22fcc018-5606-4739-8d5b-862edd568bcf)
+![Test-Execution_by-TestCycle_Tester](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/6cd7c4d5-801b-455b-8aa3-af79648e52e6)
 
-the final report shows.... -> describe 
+The conclusions are: 
+* From the 23 tests, a total number of 9 bugs were discovered, of these priorities are: 2 – high and 7 – medium  
+* Reported defects will be fixed and retested
+* Retesting will also be done for the new version of the application
+* Regression testing will be performed for the new version of the application
