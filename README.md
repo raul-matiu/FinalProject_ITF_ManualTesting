@@ -33,7 +33,7 @@ I am the only person responsible for managing this testing-project.
 * At least 50% with status passed
 * No critical defect opened
 * Maximum 5 high priority defects opened
-* Testing deadline 25.06.2023
+* Testing deadline 27.06.2023
 ### 1.1.4 Test scope ###
 Tests in scope: Review and Functional Testing using Black-box testing and Experience-based testing as Test Design Techniques, GUI Testing.\
 Tests not in scope: Performance Testing, Stress testing, Volume Testing, compatibility testing with multiple browsers, Mobile testing and Functional Testing using White-box Testing Techniques
@@ -110,7 +110,7 @@ Test cases (the titles):
 * Checking Description tab content window 
 * Checking Specification tab content window
 
-The test cases with steps can be viewed here: [link]
+The test cases with steps can be viewed here: [link](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/blob/main/TestCases-%20ZephyrSquad-csv-import-.pdf)
 
 ## 1.5 Test Implementation ##
 The following elements are needed to be ready before the test execution phase begins:
@@ -138,7 +138,7 @@ Test cases are executed on the created test Cycle summary. Check all cycle summa
 ![Cycle-sum_Reviews-tab](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/assets/112497081/a7b30965-cf2a-4d7e-90fa-4ee5213a3917)
 
 Bugs have been created based on the failed tests.\
-The complete bug reports can be found here: [link]
+The complete bug reports can be found here: [link](https://github.com/raul-matiu/FinalProject_ITF_ManualTesting/blob/main/Bugs-list-export-from-jira.pdf)
 
 Bugs title:
 * Expected product images are missing from underneath the main image
